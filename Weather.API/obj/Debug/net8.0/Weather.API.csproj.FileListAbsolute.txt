@@ -1,0 +1,11 @@
+E:\Coding\Weather API-Project\Weather.API\bin\Debug\net8.0\Weather.API.deps.json
+E:\Coding\Weather API-Project\Weather.API\bin\Debug\net8.0\Weather.API.dll
+E:\Coding\Weather API-Project\Weather.API\bin\Debug\net8.0\Weather.API.pdb
+E:\Coding\Weather API-Project\Weather.API\obj\Debug\net8.0\Weather.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding\Weather API-Project\Weather.API\obj\Debug\net8.0\Weather.API.AssemblyInfoInputs.cache
+E:\Coding\Weather API-Project\Weather.API\obj\Debug\net8.0\Weather.API.AssemblyInfo.cs
+E:\Coding\Weather API-Project\Weather.API\obj\Debug\net8.0\Weather.API.csproj.CoreCompileInputs.cache
+E:\Coding\Weather API-Project\Weather.API\obj\Debug\net8.0\Weather.API.dll
+E:\Coding\Weather API-Project\Weather.API\obj\Debug\net8.0\refint\Weather.API.dll
+E:\Coding\Weather API-Project\Weather.API\obj\Debug\net8.0\Weather.API.pdb
+E:\Coding\Weather API-Project\Weather.API\obj\Debug\net8.0\ref\Weather.API.dll
