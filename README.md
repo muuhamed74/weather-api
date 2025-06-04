@@ -38,4 +38,7 @@ Technologies Used
 - Docker (optional, for Redis)
 - JSON serialization via `System.Text.Json`
 
+Example usage of endpoint 
+
+  **GET /api/weather?city=Cairo**
 
