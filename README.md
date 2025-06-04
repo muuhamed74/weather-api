@@ -1,15 +1,15 @@
-Weather API (.NET 8) with Redis Caching
+## Weather API (.NET 8) with Redis Caching
 
 This project is a simple yet scalable (ASP.NET Core 8 Web API) that retrieves weather data for a given city
 using the (Visual Crossing Weather API) and implements (Redis caching) to avoid repeated API calls and improve performance.
 
 ---
 
-Project Architecture
+## Project Architecture
 
 The architecture is clean and follows SOLID principles with proper separation of concerns:
 
-Main Components
+## Main Components
 
 | Layer | Class | Responsibility |
 |-------|-------|----------------|
@@ -20,7 +20,7 @@ Main Components
 | **Models** | `WeatherData`, `WeatherApiResponse` | DTOs to represent the weather response and API structure. |
 
  
- Workflow
+## Workflow
 
 1. Controller receives a city name → calls `WeatherService`.
 2. `WeatherService` checks Redis cache via `RedisWeatherCacheRepository`.
@@ -29,7 +29,7 @@ Main Components
 
 ---
 
-Technologies Used
+## Technologies Used
 
 - ASP.NET Core 8
 - Redis (via `StackExchange.Redis`)
@@ -42,3 +42,13 @@ Example usage of endpoint
 
   **GET /api/weather?city=Cairo**
 
+## Local Development Notice
+
+This project currently runs **locally on your machine** (localhost) and is **not deployed on a public server**.
+
+### How to run locally:
+- Clone the repository.
+- Make sure you have [.NET SDK installed](https://dotnet.microsoft.com/download).
+- Run the API project using:
+  ```bash
+  dotnet run
