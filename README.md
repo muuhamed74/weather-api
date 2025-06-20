@@ -35,7 +35,7 @@ The architecture is clean and follows SOLID principles with proper separation of
 - Redis (via `StackExchange.Redis`)
 - Visual Crossing API
 - Swagger for API documentation
-- Docker (optional, for Redis)
+- Docker (for Redis)
 - JSON serialization via `System.Text.Json`
 
 Example usage of endpoint 
